@@ -127,7 +127,7 @@ double LstarFromArgb(const Argb argb);
 /**
  * Returns the hexadecimal representation of a color.
  */
-std::string HexFromArgb(Argb argb);
+// std::string HexFromArgb(Argb argb);
 
 /**
  * Linearizes an RGB component.
